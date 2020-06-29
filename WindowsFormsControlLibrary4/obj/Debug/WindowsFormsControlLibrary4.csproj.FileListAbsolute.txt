@@ -1,0 +1,60 @@
+C:\Users\Asus\Desktop\sports\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\Asus\Desktop\sports\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.pdb
+C:\Users\Asus\Desktop\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.UserControl1.resources
+C:\Users\Asus\Desktop\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\Asus\Desktop\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.pdb
+C:\Users\Linda Wu\Desktop\新增資料夾\sports\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\Linda Wu\Desktop\新增資料夾\sports\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.pdb
+C:\Users\Linda Wu\Desktop\新增資料夾\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csprojAssemblyReference.cache
+C:\Users\Linda Wu\Desktop\新增資料夾\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.UserControl1.resources
+C:\Users\Linda Wu\Desktop\新增資料夾\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csproj.GenerateResource.cache
+C:\Users\Linda Wu\Desktop\新增資料夾\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\Linda Wu\Desktop\新增資料夾\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\Linda Wu\Desktop\新增資料夾\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.pdb
+C:\Users\Linda Wu\Desktop\新增資料夾\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.Properties.Resources.resources
+C:\Users\USER\Desktop\sports\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\USER\Desktop\sports\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.pdb
+C:\Users\USER\Desktop\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.Properties.Resources.resources
+C:\Users\USER\Desktop\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.UserControl1.resources
+C:\Users\USER\Desktop\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\USER\Desktop\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.pdb
+C:\Users\Asus\Downloads\sports\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\Asus\Downloads\sports\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.pdb
+C:\Users\Asus\Downloads\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.Properties.Resources.resources
+C:\Users\Asus\Downloads\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.UserControl1.resources
+C:\Users\Asus\Downloads\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\Asus\Downloads\sports\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.pdb
+C:\Users\Linda Wu\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\Linda Wu\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.pdb
+C:\Users\Linda Wu\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csprojAssemblyReference.cache
+C:\Users\Linda Wu\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.Properties.Resources.resources
+C:\Users\Linda Wu\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.UserControl1.resources
+C:\Users\Linda Wu\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csproj.GenerateResource.cache
+C:\Users\Linda Wu\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\Linda Wu\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\Linda Wu\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.pdb
+C:\Users\USER\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\USER\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.pdb
+C:\Users\USER\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.Properties.Resources.resources
+C:\Users\USER\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.UserControl1.resources
+C:\Users\USER\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\USER\Desktop\新增資料夾 (2)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.pdb
+C:\Users\Linda Wu\Desktop\新增資料夾 (3)\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\Linda Wu\Desktop\新增資料夾 (3)\WindowsFormsControlLibrary4\bin\Debug\WindowsFormsControlLibrary4.pdb
+C:\Users\Linda Wu\Desktop\新增資料夾 (3)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csprojAssemblyReference.cache
+C:\Users\Linda Wu\Desktop\新增資料夾 (3)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.Properties.Resources.resources
+C:\Users\Linda Wu\Desktop\新增資料夾 (3)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.UserControl1.resources
+C:\Users\Linda Wu\Desktop\新增資料夾 (3)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csproj.GenerateResource.cache
+C:\Users\Linda Wu\Desktop\新增資料夾 (3)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\Linda Wu\Desktop\新增資料夾 (3)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.dll
+C:\Users\Linda Wu\Desktop\新增資料夾 (3)\WindowsFormsControlLibrary4\obj\Debug\WindowsFormsControlLibrary4.pdb
